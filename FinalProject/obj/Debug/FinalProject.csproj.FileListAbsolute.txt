@@ -1,0 +1,6 @@
+c:\users\ניצן\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+c:\users\ניצן\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+c:\users\ניצן\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+c:\users\ניצן\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+c:\users\ניצן\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+c:\users\ניצן\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb

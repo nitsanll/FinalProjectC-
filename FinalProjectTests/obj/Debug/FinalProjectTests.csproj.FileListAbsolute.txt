@@ -1,0 +1,8 @@
+C:\Users\ניצן\Documents\Visual Studio 2015\Projects\FinalProject\FinalProjectTests\bin\Debug\FinalProjectTests.dll
+C:\Users\ניצן\Documents\Visual Studio 2015\Projects\FinalProject\FinalProjectTests\bin\Debug\FinalProjectTests.pdb
+C:\Users\ניצן\Documents\Visual Studio 2015\Projects\FinalProject\FinalProjectTests\bin\Debug\FinalProject.exe
+C:\Users\ניצן\Documents\Visual Studio 2015\Projects\FinalProject\FinalProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ניצן\Documents\Visual Studio 2015\Projects\FinalProject\FinalProjectTests\bin\Debug\FinalProject.pdb
+C:\Users\ניצן\Documents\Visual Studio 2015\Projects\FinalProject\FinalProjectTests\obj\Debug\FinalProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\ניצן\Documents\Visual Studio 2015\Projects\FinalProject\FinalProjectTests\obj\Debug\FinalProjectTests.dll
+C:\Users\ניצן\Documents\Visual Studio 2015\Projects\FinalProject\FinalProjectTests\obj\Debug\FinalProjectTests.pdb
